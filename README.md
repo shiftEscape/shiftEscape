@@ -1,8 +1,8 @@
-### Hi there, I'm Alvin - aka shiftEscape 👋
+## Hi there, I'm Alvin - aka shiftEscape 👋
 [![GitHub Follow](https://img.shields.io/github/followers/shiftEscape?label=Followers&logo=github&style=for-the-badge)](https://github.com/shiftEscape?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamshiftescape?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/iamshiftescape&screen_name=iamshiftescape)
 
-## 💭 Think Twice, Code Once
+### 💭 Think Twice, Code Once
 
 - 📍 Software Engineer based from the Philippines 🇵🇭 🔥
 - 🌱 I’m currently learning everything 🤣 💯
