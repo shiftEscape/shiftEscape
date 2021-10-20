@@ -2,7 +2,7 @@
 [![GitHub Follow](https://img.shields.io/github/followers/shiftEscape?label=Followers&logo=github&style=for-the-badge)](https://github.com/shiftEscape?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamshiftescape?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/iamshiftescape&screen_name=iamshiftescape)
 
-## { Think Twice, Code Once }
+## 💭 Think Twice, Code Once
 
 - 📍 Software Engineer based from the Philippines 🇵🇭 🔥
 - 🌱 I’m currently learning everything 🤣 💯
@@ -12,6 +12,16 @@
   - ... More Certifications 😅
 - ⚡ Fun fact: I love to play badminton, guitar and CODM!
 - 📫 Reach me at: <a href='mailto:ajames.bellero@gmail.com'>ajames.bellero@gmail.com</a>
+
+<details>
+  <summary>💻 Workspace</summary>
+  <br/>
+  <div>
+    <img src="https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white">
+    <img src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+    <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  </div>
+</details>
 
 <details>
   <summary>🧑‍💻 Tools and Technologies Used</summary>
