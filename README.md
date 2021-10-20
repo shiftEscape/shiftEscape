@@ -54,14 +54,13 @@
 <br/>
 <details>
   <summary>📦 Packages</summary>
+  <br/>
 
-| Name                 | Summary                              | Install   | Downloads |
-| -------------------- | -------------------------------------------- | --------- | --------- |
-| [quickstart-cli](https://github.com/shiftescape/QuickStart-CLI) | A command line tool for creating initial files to quickstart Angular2 projects.  | [![npm](https://img.shields.io/npm/v/quickstart-cli?style=flat-square)](https://www.npmjs.com/package/quickstart-cli) | [![npm](https://img.shields.io/npm/dm/quickstart-cli?style=flat-square)](https://www.npmjs.com/package/quickstart-cli) |
-| [http-local-auth](https://github.com/shiftescape/http-local-auth)   | HTTP wrapper for Angular2 that includes basic Authentication Header via localStorage.   | [![npm](https://img.shields.io/npm/v/http-local-auth?style=flat-square)](https://www.npmjs.com/package/http-local-auth) | [![npm](https://img.shields.io/npm/dm/http-local-auth?style=flat-square)](https://www.npmjs.com/package/http-local-auth) |
-| [ng-localstorage](https://github.com/shiftescape/ng-localstorage)   | A localStorage wrapper to simplify local storage setItem and getItem.   | [![npm](https://img.shields.io/npm/v/ng-localstorage?style=flat-square)](https://www.npmjs.com/package/ng-localstorage) | [![npm](https://img.shields.io/npm/dm/ng-localstorage?style=flat-square)](https://www.npmjs.com/package/ng-localstorage) |
-  
-  
+  | Name                 | Summary                              | Install   | Downloads |
+  | -------------------- | -------------------------------------------- | --------- | --------- |
+  | [quickstart-cli](https://github.com/shiftescape/QuickStart-CLI) | A command line tool for creating initial files to quickstart Angular2 projects.  | [![npm](https://img.shields.io/npm/v/quickstart-cli?style=flat-square)](https://www.npmjs.com/package/quickstart-cli) | [![npm](https://img.shields.io/npm/dm/quickstart-cli?style=flat-square)](https://www.npmjs.com/package/quickstart-cli) |
+  | [http-local-auth](https://github.com/shiftescape/http-local-auth)   | HTTP wrapper for Angular2 that includes basic Authentication Header via localStorage.   | [![npm](https://img.shields.io/npm/v/http-local-auth?style=flat-square)](https://www.npmjs.com/package/http-local-auth) | [![npm](https://img.shields.io/npm/dm/http-local-auth?style=flat-square)](https://www.npmjs.com/package/http-local-auth) |
+  | [ng-localstorage](https://github.com/shiftescape/ng-localstorage)   | A localStorage wrapper to simplify local storage setItem and getItem.   | [![npm](https://img.shields.io/npm/v/ng-localstorage?style=flat-square)](https://www.npmjs.com/package/ng-localstorage) | [![npm](https://img.shields.io/npm/dm/ng-localstorage?style=flat-square)](https://www.npmjs.com/package/ng-localstorage) |
 </details>
 
 <details>
