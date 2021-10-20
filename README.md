@@ -6,7 +6,10 @@
 
 - 📍 Software Engineer based from the Philippines 🇵🇭 🔥
 - 🌱 I’m currently learning everything 🤣 💯
-- 🥅 2021-2022 Goals: Contribute more to Open Source projects and AWS Certifications
+- 🥅 Long-Term Goals:
+  - Contribute more to Open Source Projects ✅
+  - AWS | Google Cloud Certifications 🥇
+  - ... More Certifications 😅
 - ⚡ Fun fact: I love to play badminton, guitar and CODM!
 
 ## I work using the following technologies ...
