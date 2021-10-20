@@ -2,14 +2,14 @@
 [![GitHub Follow](https://img.shields.io/github/followers/shiftEscape?label=Followers&logo=github&style=for-the-badge)](https://github.com/shiftEscape?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamshiftescape?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/iamshiftescape&screen_name=iamshiftescape)
 
-## Think Twice, Code Once !!
+## "Think Twice, Code Once"
 
 - 📍 Software Engineer based from the Philippines 🇵🇭 🔥
 - 🌱 I’m currently learning everything 🤣 💯
 - 🥅 2021-2022 Goals: Contribute more to Open Source projects and AWS Certifications
 - ⚡ Fun fact: I love to play badminton, guitar and CODM!
 
-## I work using the following technologies
+## I work using the following technologies ...
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
