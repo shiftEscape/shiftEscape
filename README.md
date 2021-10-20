@@ -65,5 +65,6 @@
 
 <details>
   <summary>✏️ Contributions</summary>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiftEscape" />
 </details>
