@@ -12,9 +12,12 @@
   - ... More Certifications 😅
 - ⚡ Fun fact: I love to play badminton, guitar and CODM!
 
-## I work using the following technologies ...
+## I work using the following tools and technologies ...
 <div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 <div>
@@ -43,6 +46,7 @@
 <div>
   <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 <div>
@@ -51,8 +55,14 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
 </div>
 <br/>
 <details>
