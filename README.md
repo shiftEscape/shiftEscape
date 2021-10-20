@@ -51,6 +51,20 @@
   <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
 </div>
+<br/>
+<details>
+  <summary>📦 Packages</summary>
 
-## Contributions
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shiftEscape" />
+| Name                 | Summary                              | Install   | Downloads |
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| [quickstart-cli](https://github.com/shiftescape/QuickStart-CLI) | A command line tool for creating initial files to quickstart Angular2 projects.  | [![npm](https://img.shields.io/npm/v/quickstart-cli?style=flat-square)](https://www.npmjs.com/package/quickstart-cli) | [![npm](https://img.shields.io/npm/dm/quickstart-cli?style=flat-square)](https://www.npmjs.com/package/quickstart-cli) |
+| [http-local-auth](https://github.com/shiftescape/http-local-auth)   | HTTP wrapper for Angular2 that includes basic Authentication Header via localStorage.   | [![npm](https://img.shields.io/npm/v/http-local-auth?style=flat-square)](https://www.npmjs.com/package/http-local-auth) | [![npm](https://img.shields.io/npm/dm/http-local-auth?style=flat-square)](https://www.npmjs.com/package/http-local-auth) |
+| [ng-localstorage](https://github.com/shiftescape/ng-localstorage)   | A localStorage wrapper to simplify local storage setItem and getItem.   | [![npm](https://img.shields.io/npm/v/ng-localstorage?style=flat-square)](https://www.npmjs.com/package/ng-localstorage) | [![npm](https://img.shields.io/npm/dm/ng-localstorage?style=flat-square)](https://www.npmjs.com/package/ng-localstorage) |
+  
+  
+</details>
+
+<details>
+  <summary>✏️ Contributions</summary>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiftEscape" />
+</details>
