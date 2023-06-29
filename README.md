@@ -15,6 +15,7 @@ For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, i
 
 ### 🔬 Current Deep Dives
 
+- 🤖 **`A.I. (of course!)`**
 - **Firebase Extensions**
   - 🤖 [Chatbot with ChatGPT](https://extensions.dev/extensions/shiftescape/firestore-chatgpt-bot)
 - **Github Community Actions**
