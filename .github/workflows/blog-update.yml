@@ -1,11 +1,16 @@
-name: "Dev.to Sync Articles"
+name: "Sync Articles"
 
 on:
+  schedule:
+    - cron: '0 0 * * SUN'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
-    name: "Sync Articles from dev.to"
+    name: "Sync articles from dev.to"
     runs-on: "ubuntu-latest"
     steps:
       - name: Checkout
