@@ -1,10 +1,13 @@
 # 👋 Hi there!
 
+<img src="https://github.com/shiftEscape/shiftEscape/assets/2888535/67585c87-bda8-4a69-9066-59f3eaf36aa9" align="right" />
+
 I'm **Alvin James** (feel free to call me Alvin or James!).
 
 > A **Senior Software Engineer** 🧑‍💻, proudly from the **Philippines** 🇵🇭 and currently innovating in the dynamic tech world of **Singapore** 🇸🇬. I specialize in crafting **efficient** and **reliable** software solutions.
 
-For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, igniting my passion for this ever-evolving field.
+For me, the sweet spot lies in merging **creativity** and **logic**, igniting my passion for this ever-evolving field.
+
 
 ## ✍️ Latest Articles
 
@@ -31,6 +34,9 @@ For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, i
 - 📚 Blog - [https://dev.to/shiftescape/](https://dev.to/shiftescape)
 - 🧳 LinkedIn - [https://www.linkedin.com/in/alvin-james-bellero/](https://www.linkedin.com/in/alvin-james-bellero/)
 - 📧 Email - [ajames.bellero@gmail.com](mailto:ajames.bellero@gmail.com)
+
+## 🙇 Attributions
+> GIF animation courtesy of [PluralSight](https://giphy.com/Pluralsight/)
 
 ## ☕️ Support Me!
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shiftEscapeAlvin)
