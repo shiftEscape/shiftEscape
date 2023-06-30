@@ -50,4 +50,4 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 - 📧 Email - [contact@alvinbellero.dev](mailto:contact@alvinbellero.dev)
 
 ## 🙇 Attributions
-> GIF animation courtesy of [PluralSight](https://giphy.com/Pluralsight/)
+> GIF animation courtesy of [Giphy PluralSight](https://giphy.com/Pluralsight/)
