@@ -23,7 +23,7 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 - 🎓🤞 Master's Degree
 
 ## 🌟 Contributions
-> Beyond work, I delve into the open-source world, contributing as much as I can and fuel my curiosity through constant learning.
+> Beyond work, I embrace the open-source community, contributing and fueling my curiosity through constant learning.
 
 - Firebase Extensions
   - 🤖 [Chatbot with ChatGPT](https://extensions.dev/extensions/shiftescape/firestore-chatgpt-bot)
