@@ -47,7 +47,7 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 - 🕸️ Personal Site - [https://alvinbellero.dev/](https://alvinbellero.dev/)
 - 📚 Blog - [https://dev.to/shiftescape/](https://dev.to/shiftescape)
 - 🧳 LinkedIn - [https://www.linkedin.com/in/alvin-james-bellero/](https://www.linkedin.com/in/alvin-james-bellero/)
-- 📧 Email - [ajames.bellero@gmail.com](mailto:ajames.bellero@gmail.com)
+- 📧 Email - [contact@alvinbellero.dev](mailto:contact@alvinbellero.dev)
 
 ## 🙇 Attributions
 > GIF animation courtesy of [PluralSight](https://giphy.com/Pluralsight/)
