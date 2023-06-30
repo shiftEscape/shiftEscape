@@ -14,6 +14,7 @@ For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, i
 - ⚡️ [Creating Your First VSCode Extension Theme](https://dev.to/shiftescape/creating-your-first-vscode-extension-9d4)
 
 ## 🔬 Current Deep Dives
+> Beyond work, I delve into the open-source world, contributing as I can and fuel my curiosity through constant learning.
 
 - 🤖 **`A.I. (of course!)`**
 - **Firebase Extensions**
