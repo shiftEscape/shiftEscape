@@ -4,7 +4,9 @@
 
 I'm **Alvin James** (feel free to call me Alvin or James!).
 
-> A **Senior Software Engineer** 🧑‍💻, proudly from the **Philippines** 🇵🇭 and currently innovating in the dynamic tech world of **Singapore** 🇸🇬. I specialize in crafting **efficient** and **reliable** software solutions. For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, igniting my passion 🔥 for this **ever-evolving** field and driving me to explore new boundaries 💯!
+> A **Senior Software Engineer** 🧑‍💻, proudly from the **Philippines** 🇵🇭 and currently innovating in the dynamic tech world of **Singapore** 🇸🇬. I specialize in crafting **efficient** and **reliable** software solutions.
+
+> For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, igniting my passion 🔥 for this **ever-evolving** field and driving me to explore new boundaries 💯!
 
 
 ## ✍️ Latest Articles
