@@ -20,10 +20,10 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Firebase Hosting: Free Hosting for your First Web Project 🚀 🙌](https://dev.to/shiftescape/firebase-hosting-free-hosting-for-your-first-web-project-28n8)
-- [Visual Studio Code Productivity Hacks: My Favourite 15 Extensions](https://dev.to/shiftescape/visual-studio-code-productivity-hacks-my-favourite-15-extensions-1gb7)
-- [Publishing Your Extensions to Visual Studio Marketplace](https://dev.to/shiftescape/publishing-your-extensions-to-visual-studio-marketplace-49ma)
-- [Creating Your First VSCode Extension Theme](https://dev.to/shiftescape/creating-your-first-vscode-extension-9d4)
+- [🚀 Firebase Hosting: Free Hosting for your First Web Project](https://dev.to/shiftescape/firebase-hosting-free-hosting-for-your-first-web-project-28n8)
+- [🧑‍💻 Visual Studio Code Productivity Hacks: My Favourite 15 Extensions](https://dev.to/shiftescape/visual-studio-code-productivity-hacks-my-favourite-15-extensions-1gb7)
+- [🌎 Publishing Your Extensions to Visual Studio Marketplace](https://dev.to/shiftescape/publishing-your-extensions-to-visual-studio-marketplace-49ma)
+- [🎨 Creating Your First VSCode Extension Theme](https://dev.to/shiftescape/creating-your-first-vscode-extension-9d4)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔬 Current Deep Dives
