@@ -17,15 +17,20 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 - ⚡️ [Creating Your First VSCode Extension Theme](https://dev.to/shiftescape/creating-your-first-vscode-extension-9d4)
 
 ## 🔬 Current Deep Dives
-> Beyond work, I delve into the open-source world, contributing as I can and fuel my curiosity through constant learning.
-
 - 🤖 **`A.I. (of course!)`**
-- **Firebase Extensions**
+- 💻 &nbsp;Techs & Frameworks
+- ♻️ &nbsp;DevOps
+- 🎓🤞 Master's Degree
+
+## 🌟 Contributions
+> Beyond work, I delve into the open-source world, contributing as much as I can and fuel my curiosity through constant learning.
+
+- Firebase Extensions
   - 🤖 [Chatbot with ChatGPT](https://extensions.dev/extensions/shiftescape/firestore-chatgpt-bot)
-- **Github Community Actions**
+- Github Community Actions
   - 🔖 [Auto Label Pulls](https://github.com/marketplace/actions/auto-label-pulls)
   - 📇 [Commit Hash Verifier](https://github.com/marketplace/actions/commit-hash-verifier)
-- **Visual Studio Code Extensions**
+- Visual Studio Code Extensions
   - 🎨 [ThemeNemo](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.theme-nemo) _(Theme)_
   - 📜 [Console Buddy](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.console-buddy) _(Snippet)_
 
