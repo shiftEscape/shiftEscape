@@ -1,4 +1,4 @@
-## 👋 Hi there!
+# 👋 Hi there!
 
 I'm **Alvin James** (feel free to call me Alvin or James!).
 
@@ -6,14 +6,14 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 
 For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, igniting my passion for this ever-evolving field.
 
-### ✍️ Latest Articles
+## ✍️ Latest Articles
 
 - 🚀 [Firebase Hosting: Free Hosting for your First Web Project](https://dev.to/shiftescape/firebase-hosting-free-hosting-for-your-first-web-project-28n8)
 - 🧑‍💻 [Visual Studio Code Productivity Hacks: My Favourite 15 Extensions](https://dev.to/shiftescape/visual-studio-code-productivity-hacks-my-favourite-15-extensions-1gb7)
 - 🌎 [Publishing Your Extensions to Visual Studio Marketplace](https://dev.to/shiftescape/publishing-your-extensions-to-visual-studio-marketplace-49ma)
 - ⚡️ [Creating Your First VSCode Extension Theme](https://dev.to/shiftescape/creating-your-first-vscode-extension-9d4)
 
-### 🔬 Current Deep Dives
+## 🔬 Current Deep Dives
 
 - 🤖 **`A.I. (of course!)`**
 - **Firebase Extensions**
@@ -23,13 +23,13 @@ For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, i
   - 📇 [Commit Hash Verifier](https://github.com/marketplace/actions/commit-hash-verifier)
 - **Visual Studio Code Extensions**
   - 🎨 [ThemeNemo](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.theme-nemo) _(Theme)_
-  - 🪵 [Console Buddy](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.console-buddy) _(Snippet)_
+  - 📜 [Console Buddy](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.console-buddy) _(Snippet)_
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 - 🕸️ Personal Site - [https://alvinbellero.dev/](https://alvinbellero.dev/)
-- 📚 Blog [https://dev.to/shiftescape/](https://dev.to/shiftescape)
+- 📚 Blog - [https://dev.to/shiftescape/](https://dev.to/shiftescape)
 - 🧳 LinkedIn - [https://www.linkedin.com/in/alvin-james-bellero/](https://www.linkedin.com/in/alvin-james-bellero/)
-- 📧 Email: [ajames.bellero@gmail.com](mailto:ajames.bellero@gmail.com)
+- 📧 Email - [ajames.bellero@gmail.com](mailto:ajames.bellero@gmail.com)
 
 ### ☕️ Support Me!
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shiftEscapeAlvin)
