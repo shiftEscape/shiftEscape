@@ -31,5 +31,5 @@ For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, i
 - 🧳 LinkedIn - [https://www.linkedin.com/in/alvin-james-bellero/](https://www.linkedin.com/in/alvin-james-bellero/)
 - 📧 Email - [ajames.bellero@gmail.com](mailto:ajames.bellero@gmail.com)
 
-### ☕️ Support Me!
+## ☕️ Support Me!
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shiftEscapeAlvin)
