@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hi there! <img align="right" style="margin-top: 5px" src="https://komarev.com/ghpvc/?username=shiftEscape&style=for-the-badge&color=E05D44" />
 
 <img src="https://github.com/shiftEscape/shiftEscape/assets/2888535/67585c87-bda8-4a69-9066-59f3eaf36aa9" align="right" />
 
