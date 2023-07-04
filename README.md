@@ -20,11 +20,11 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [💼 Marking One Year in Singapore: My Life as an Expat Software Engineer](https://dev.to/shiftescape/marking-one-year-in-singapore-my-life-as-an-expat-software-engineer-10h6)
 - [📦 Stay Organized and Efficient with Auto-Label-Pulls Github Action](https://dev.to/shiftescape/stay-organized-and-efficient-with-auto-label-pulls-github-action-29pi)
 - [🤖 ChatGPT meets Firestore: Create Intelligent Conversations in Your App](https://dev.to/shiftescape/chatgpt-meets-firestore-create-intelligent-conversations-in-your-app-11mj)
 - [🚀 Firebase Hosting: Free Hosting for your First Web Project](https://dev.to/shiftescape/firebase-hosting-free-hosting-for-your-first-web-project-28n8)
 - [🧑‍💻 Visual Studio Code Productivity Hacks: My Favourite 15 Extensions](https://dev.to/shiftescape/visual-studio-code-productivity-hacks-my-favourite-15-extensions-1gb7)
-- [🌎 Publishing Your Extensions to Visual Studio Marketplace](https://dev.to/shiftescape/publishing-your-extensions-to-visual-studio-marketplace-49ma)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔬 Current Deep Dives
