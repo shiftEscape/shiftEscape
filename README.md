@@ -20,7 +20,7 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Extensions Dump: UnitFlux and CodeMorph! 🌟](https://dev.to/shiftescape/extensions-dump-unitflux-and-codemorph-bhi)
+- [🌟 Extensions Dump: UnitFlux and CodeMorph!](https://dev.to/shiftescape/extensions-dump-unitflux-and-codemorph-bhi)
 - [💼 Marking One Year in Singapore: My Life as an Expat Software Engineer](https://dev.to/shiftescape/marking-one-year-in-singapore-my-life-as-an-expat-software-engineer-10h6)
 - [📦 Stay Organized and Efficient with Auto-Label-Pulls Github Action](https://dev.to/shiftescape/stay-organized-and-efficient-with-auto-label-pulls-github-action-29pi)
 - [🤖 ChatGPT meets Firestore: Create Intelligent Conversations in Your App](https://dev.to/shiftescape/chatgpt-meets-firestore-create-intelligent-conversations-in-your-app-11mj)
