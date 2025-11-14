@@ -50,7 +50,7 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 - Visual Studio Code Extensions
   - 🎨 [ThemeNemo](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.theme-nemo) _(Theme)_
   - 📜 [Console Buddy](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.console-buddy) _(Snippet)_
-  - See more projects listed in my [Portfolio](https://alvinbellero.dev/projects/)
+  - 👀 See more projects listed in my [Portfolio](https://alvinbellero.dev/projects/)
 
 ## 🤝 Connect with Me
 
