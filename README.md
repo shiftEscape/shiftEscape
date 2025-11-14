@@ -19,7 +19,9 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 <br/>
 
 ## ✍️ Latest Articles
+
 <!-- BLOG-POST-LIST:START -->
+
 - [🌟 Extensions Dump: UnitFlux and CodeMorph!](https://dev.to/shiftescape/extensions-dump-unitflux-and-codemorph-bhi)
 - [💼 Marking One Year in Singapore: My Life as an Expat Software Engineer](https://dev.to/shiftescape/marking-one-year-in-singapore-my-life-as-an-expat-software-engineer-10h6)
 - [📦 Stay Organized and Efficient with Auto-Label-Pulls Github Action](https://dev.to/shiftescape/stay-organized-and-efficient-with-auto-label-pulls-github-action-29pi)
@@ -31,12 +33,13 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔬 Current Deep Dives
+
 - 🤖 **`A.I. (of course!)`**
 - 💻 &nbsp;Techs & Frameworks
 - ♻️ &nbsp;DevOps
-- 🎓🤞 Master's Degree
 
 ## 🌟 Contributions
+
 > Beyond work, I embrace the open-source community, contributing and fueling my curiosity through constant learning.
 
 - Firebase Extensions
@@ -47,12 +50,15 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 - Visual Studio Code Extensions
   - 🎨 [ThemeNemo](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.theme-nemo) _(Theme)_
   - 📜 [Console Buddy](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.console-buddy) _(Snippet)_
+  - See more projects listed in my [Portfolio](https://alvinbellero.dev/projects/)
 
 ## 🤝 Connect with Me
+
 - 🕸️ Personal Site - [https://alvinbellero.dev/](https://alvinbellero.dev/)
 - 📚 Blog - [https://dev.to/shiftescape/](https://dev.to/shiftescape)
 - 🧳 LinkedIn - [https://www.linkedin.com/in/alvin-james-bellero/](https://www.linkedin.com/in/alvin-james-bellero/)
 - 📧 Email - [contact@alvinbellero.dev](mailto:contact@alvinbellero.dev)
 
 ## 🙇 Attributions
+
 > GIF animation courtesy of [Giphy PluralSight](https://giphy.com/Pluralsight/)
