@@ -22,7 +22,7 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 
 <!-- BLOG-POST-LIST:START -->
 - [🎭 I Switched to Playwright and I Am Not Going Back](https://dev.to/shiftescape/i-switched-to-playwright-and-i-am-not-going-back-epa)
-- [So Your Manager is Passive Aggressive: A Survival Guide for Developers 🙃](https://dev.to/shiftescape/so-your-manager-is-passive-aggressive-a-survival-guide-for-developers-jnb)
+- [🙃 So Your Manager is Passive Aggressive: A Survival Guide for Developers](https://dev.to/shiftescape/so-your-manager-is-passive-aggressive-a-survival-guide-for-developers-jnb)
 - [🌟 Extensions Dump: UnitFlux and CodeMorph!](https://dev.to/shiftescape/extensions-dump-unitflux-and-codemorph-bhi)
 - [💼 Marking One Year in Singapore: My Life as an Expat Software Engineer](https://dev.to/shiftescape/marking-one-year-in-singapore-my-life-as-an-expat-software-engineer-10h6)
 - [📦 Stay Organized and Efficient with Auto-Label-Pulls Github Action](https://dev.to/shiftescape/stay-organized-and-efficient-with-auto-label-pulls-github-action-29pi)
