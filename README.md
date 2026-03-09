@@ -21,6 +21,8 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Extensions Dump: Key Tracer!](https://dev.to/shiftescape/extensions-dump-key-tracer-4dof)
+- [🧠 TypeScript: Type vs Interface — Stop Guessing, Start Knowing](https://dev.to/shiftescape/typescript-type-vs-interface-stop-guessing-start-knowing-2if9)
 - [🎭 I Switched to Playwright and I Am Not Going Back](https://dev.to/shiftescape/i-switched-to-playwright-and-i-am-not-going-back-epa)
 - [🙃 So Your Manager is Passive Aggressive: A Survival Guide for Developers](https://dev.to/shiftescape/so-your-manager-is-passive-aggressive-a-survival-guide-for-developers-jnb)
 - [🌟 Extensions Dump: UnitFlux and CodeMorph!](https://dev.to/shiftescape/extensions-dump-unitflux-and-codemorph-bhi)
