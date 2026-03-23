@@ -44,6 +44,9 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 
 > Beyond work, I embrace the open-source community, contributing and fueling my curiosity through constant learning.
 
+- Astro Integrations
+  - [![@shiftescape/astro-env-inspector](https://img.shields.io/npm/v/%40shiftescape%2Fastro-env-inspector?label=%40shiftescape%2Fastro-env-inspector)](https://www.npmjs.com/package/@shiftescape/astro-env-inspector)
+  - [![@shiftescape/astro-bundle-budget](https://img.shields.io/npm/v/%40shiftescape%2Fastro-bundle-budget?label=%40shiftescape%2Fastro-bundle-budget)](https://www.npmjs.com/package/@shiftescape/astro-bundle-budget)
 - Firebase Extensions
   - 🤖 [Chatbot with ChatGPT](https://extensions.dev/extensions/shiftescape/firestore-chatgpt-bot)
 - Github Community Actions
