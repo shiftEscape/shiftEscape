@@ -21,7 +21,7 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [📦 I Built 3 Astro Integrations and Shipped Them to npm — Here&#39;s What They Do](https://dev.to/shiftescape/i-built-3-astro-integrations-and-shipped-them-to-npm-heres-what-they-do-1873)
 - [🌟 Extensions Dump: Key Tracer!](https://dev.to/shiftescape/extensions-dump-key-tracer-4dof)
 - [🧠 TypeScript: Type vs Interface — Stop Guessing, Start Knowing](https://dev.to/shiftescape/typescript-type-vs-interface-stop-guessing-start-knowing-2if9)
 - [🎭 I Switched to Playwright and I Am Not Going Back](https://dev.to/shiftescape/i-switched-to-playwright-and-i-am-not-going-back-epa)
