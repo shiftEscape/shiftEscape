@@ -48,6 +48,8 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 - NPM Packages (Astro Integrations)
   - 📦 [@shiftescape/astro-env-inspector](https://www.npmjs.com/package/@shiftescape/astro-env-inspector)
   - 📦 [@shiftescape/astro-bundle-budget](https://www.npmjs.com/package/@shiftescape/astro-bundle-budget)
+  - 📦 [@shiftescape/astro-env-inspector](https://www.npmjs.com/package/@shiftescape/astro-env-inspector)
+  - 📦 [@shiftescape/astro-i18n-toolkit](https://www.npmjs.com/package/@shiftescape/astro-i18n-toolkit)
 - Firebase Extensions
   - 🤖 [Chatbot with ChatGPT](https://extensions.dev/extensions/shiftescape/firestore-chatgpt-bot)
 - Github Community Actions
