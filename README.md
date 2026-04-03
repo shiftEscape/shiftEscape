@@ -8,15 +8,7 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 
 > For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, igniting my passion 🔥 for this **ever-evolving** field and driving me to explore new boundaries 💯!
 
-<br/>
-
-<div>
-  <a href="https://www.buymeacoffee.com/shiftEscapeAlvin">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=shiftEscapeAlvin&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" />
-  </a>
-</div>
-
-<br/>
+<br />
 
 ## ✍️ Latest Articles
 
