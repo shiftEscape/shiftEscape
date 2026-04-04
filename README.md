@@ -50,7 +50,3 @@
 - 📚 Blog - [https://dev.to/shiftescape/](https://dev.to/shiftescape)
 - 🧳 LinkedIn - [https://www.linkedin.com/in/alvin-james-bellero/](https://www.linkedin.com/in/alvin-james-bellero/)
 - 📧 Email - [contact@alvinbellero.dev](mailto:contact@alvinbellero.dev)
-
-## 🙇 Attributions
-
-> GIF animation courtesy of [Giphy PluralSight](https://giphy.com/Pluralsight/)
