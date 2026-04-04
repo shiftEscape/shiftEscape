@@ -1,15 +1,3 @@
-# 👋 Hi there! <img align="right" style="margin-top: 5px" src="https://komarev.com/ghpvc/?username=shiftEscape&style=for-the-badge&color=E05D44" />
-
-<img src="https://github.com/shiftEscape/shiftEscape/assets/2888535/67585c87-bda8-4a69-9066-59f3eaf36aa9" align="right" />
-
-I'm **Alvin James** (feel free to call me Alvin or James!).
-
-> A **Senior Software Engineer** 🧑‍💻, proudly from the **Philippines** 🇵🇭 and currently innovating in the dynamic tech world of **Singapore** 🇸🇬. I specialize in crafting **efficient** and **reliable** software solutions.
-
-> For me, the sweet spot lies in merging **creativity** 🎨 and **logic** 🧠, igniting my passion 🔥 for this **ever-evolving** field and driving me to explore new boundaries 💯!
-
-<br />
-
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
@@ -38,6 +26,9 @@ I'm **Alvin James** (feel free to call me Alvin or James!).
 
 > Beyond work, I embrace the open-source community, contributing and fueling my curiosity through constant learning.
 
+- Claude Skills
+  - 🧠 [spec-forge](https://github.com/shiftEscape/claude-skills/tree/main/skills/spec-forge)
+  - 🧠 [zip-output](https://github.com/shiftEscape/claude-skills/tree/main/skills/zip-output)
 - NPM Packages (Astro Integrations)
   - 📦 [@shiftescape/astro-env-inspector](https://www.npmjs.com/package/@shiftescape/astro-env-inspector)
   - 📦 [@shiftescape/astro-bundle-budget](https://www.npmjs.com/package/@shiftescape/astro-bundle-budget)
