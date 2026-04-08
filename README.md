@@ -29,6 +29,7 @@
 - Claude Skills
   - 🧠 [spec-forge](https://github.com/shiftEscape/claude-skills/tree/main/skills/spec-forge)
   - 🧠 [zip-output](https://github.com/shiftEscape/claude-skills/tree/main/skills/zip-output)
+  - 🧠 [rosetta](https://github.com/shiftEscape/claude-skills/tree/main/skills/rosetta)
 - NPM Packages (Astro Integrations)
   - 📦 [@shiftescape/astro-env-inspector](https://www.npmjs.com/package/@shiftescape/astro-env-inspector)
   - 📦 [@shiftescape/astro-bundle-budget](https://www.npmjs.com/package/@shiftescape/astro-bundle-budget)
