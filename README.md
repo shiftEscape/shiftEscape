@@ -40,6 +40,7 @@
 - Github Community Actions
   - 🔖 [Auto Label Pulls](https://github.com/marketplace/actions/auto-label-pulls)
   - 📇 [Commit Hash Verifier](https://github.com/marketplace/actions/commit-hash-verifier)
+  - ⚓️ [Ship Happens](https://github.com/marketplace/actions/ship-happens-action)
 - Visual Studio Code Extensions
   - 🎨 [ThemeNemo](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.theme-nemo) _(Theme)_
   - 📜 [Console Buddy](https://marketplace.visualstudio.com/items?itemName=AlvinJamesBellero.console-buddy) _(Snippet)_
